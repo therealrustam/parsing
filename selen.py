@@ -23,7 +23,7 @@ from telegram.ext import Updater, Filters # инструмент, который
 from telegram.ext import MessageHandler # обработчик апдейта
 import datetime
 
-BOT_KEY = '2081760099:AAE3j_yF5yimbJhr34utqg0pdg_BEr41iBw'
+BOT_KEY = ''
 
 # Функция будет вызвана при получении апдейта
 def bot_reply(upd: Update, ctx):
